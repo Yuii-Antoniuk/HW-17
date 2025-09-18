@@ -1,0 +1,15 @@
+            
+.bg-box {
+    height: 600px;
+    background-color: green;
+    background-image:
+     url(../images/home.webp),
+     url(../images/lamp-png-34914.png),
+     url(../images/green-png-44873.png),
+     url(../images/58eb07b830eab15b56162788.png),
+     url(../images/3F3F.webp)
+     ;
+    background-position: center, top, bottom, right, left;
+    background-size: 500px 300px, 75px 100px, 200px 200px, 50px 50px, 50px 50px;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+}
